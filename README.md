@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
 
-💪🏼 I’m currently working on the Future of Fitness
+Busy building the Future
 
 <a href="https://twitter.com/randyhattab">Twitter</a>
 
