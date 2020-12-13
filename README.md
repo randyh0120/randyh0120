@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
 
-Busy building the Future
+Building the Future
 
 <a href="https://twitter.com/randyhattab">Twitter</a>
 
