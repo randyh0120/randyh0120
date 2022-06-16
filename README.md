@@ -2,11 +2,14 @@
 
 Building the Future
 
-<a href="https://twitter.com/randyhattab">Twitter</a>
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40RandyHattab)](https://twitter.com/randyhattab)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=randyh0120&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/randyh0120">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=randyh0120&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/randyh0120">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyh0120&layout=compact&hide=c%23" />
+</a>
 
 <!--
 **randyh0120/randyh0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
