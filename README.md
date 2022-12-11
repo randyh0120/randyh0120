@@ -11,7 +11,7 @@ Building the Future
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyh0120&layout=compact&hide=c%23" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=randyh0120&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=randyh0120&theme=radical&hide_border=true)]
 <!--
 **randyh0120/randyh0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
