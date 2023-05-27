@@ -23,11 +23,11 @@
 
 <p align="left"> <a href="https://twitter.com/randyhattab" target="blank"><img src="https://img.shields.io/twitter/follow/randyhattab?logo=twitter&style=for-the-badge" alt="randyhattab" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.randyhattab.dev/](https://www.randyhattab.dev/)
+- 👨‍💻 All of my projects and experiences are available at [https://www.randyhattab.dev/](https://www.randyhattab.dev/)
 
 - 📫 How to reach me **randyhattab.one@gmail.com**
 
-- 📄 Know about my experiences [https://www.randyhattab.dev/static/media/RandyHattab_Resume.7dbdd16a.pdf](https://www.randyhattab.dev/static/media/RandyHattab_Resume.7dbdd16a.pdf)
+<!-- - 📄 Know about my experiences [https://www.randyhattab.dev/static/media/RandyHattab_Resume.7dbdd16a.pdf](https://www.randyhattab.dev/static/media/RandyHattab_Resume.7dbdd16a.pdf) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
