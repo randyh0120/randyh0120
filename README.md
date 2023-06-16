@@ -44,7 +44,8 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=randyh0120&include_all_commits=true&count_private=true&show_icons=true" alt="randyh0120" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyh0120&layout=compact&hide=c%23" alt="randyh0120" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyh0120&layout=compact&hide=c%23" alt="randyh0120" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyh0120&layout=compact" alt="randyh0120" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randyh0120&" alt="randyh0120" /></p>
 <!--
