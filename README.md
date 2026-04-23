@@ -2,7 +2,7 @@
 
 ### Software Engineer | MBA | Building products across software, finance, and real estate
 
-I’m a software engineer with a passion for building practical, high-impact products. My work sits at the intersection of **software engineering, business strategy, automation, and analytics** — with a strong interest in **real estate tech, financial analysis, and AI-powered tools**.
+I’m a software engineer with a passion for building practical, high-impact products. My work sits at the intersection of **software engineering, business strategy, automation, and analytics** with a strong interest in **real estate tech, financial analysis, and AI-powered tools**.
 
 ---
 
