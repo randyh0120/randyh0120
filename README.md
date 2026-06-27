@@ -54,7 +54,7 @@ I’m a software engineer with a passion for building practical, high-impact pro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=randyh0120&show_icons=true&include_all_commits=true&count_private=true&number_format=long" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=randyh0120&show_icons=true&include_all_commits=true&number_format=long" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyh0120&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5" height="165" />
 </p>
 
